@@ -1,29 +1,9 @@
-# vue-novel-app
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+请求地址
+http://api.zhuishushenqi.com
+图片拼接地址
+http://statics.zhuishushenqi.com
+男频最热
+booklists?gender=male&sort=collectorCount&duration=all
+男频最新
+booklists?gender=male&sort=created&duration=all
+女频改female
